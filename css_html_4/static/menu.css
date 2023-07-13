@@ -1,0 +1,32 @@
+.buttonMenu {
+/*
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+    outline: 3px solid black;
+    outline-offset: 4px;
+    margin-right: 2%;
+    margin-bottom: 1%;
+*/
+}
+.title_info{
+color: #222222;
+font-size: 28px;
+line-height: 36px;
+font-weight: bold;
+}
+.data{
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 30px;
+color: #7D7987;
+}
+.greeting_title{
+color: coral;
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 80px;
+}
