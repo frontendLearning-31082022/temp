@@ -1,0 +1,19 @@
+.header__navbar {
+    background: #222222;
+}
+.big_adv_text {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 30px;
+
+    color: #222222;
+
+}
+.big_adv_text2 {
+    font-size: 32px;
+}
+.big_adv_text3 {
+    color: #F16D7F;
+}
